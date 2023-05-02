@@ -27,7 +27,7 @@ Campuses in the institution are overloaded with their daily operations. By consu
 
 ---
 
-### The Fragile Families Challenge: ML with Bayesian hyperparameter tuning, KNN missing values imputation, and data preprocessing Pipelines
+<!-- uva uva ### The Fragile Families Challenge: ML with Bayesian hyperparameter tuning, KNN missing values imputation, and data preprocessing Pipelines
 The Fragile Families Challenge was a predictive modelling challenge commissioned by researchers at Princeton University in 2017. In the challenge, participants were tasked with predicting six life outcomes (GPA, material hardship, grit, eviction, layoff, and job training) for 4,242 children based on their cirumstances between birth and age 9. 
 
 I took part in this challenge, using various ML and NLP techniques including: (i) imputing missing values using word embeddings and KNN, (ii) modelling with LASSO, Random Forests and XGBoost models, (iii) Bayesian hyperparameter optimisation, and (iv) using feature importance scores to interpret the models' predictions. 
@@ -72,7 +72,7 @@ A significant barrier to ML's adoption in many fields is the lack of interpretab
 ### Using multi-level modelling in R to investigate the drivers of Covid-19 vaccine hesitancy
 In many tasks, failing to account for the hierarchical relations and autocorrelations between data can create "ecological fallacies" which misguide our interpretation of the data. In this project, I use mutli-level regression modelling to account for spatial autocorrelation and study reasons for Covid-19 vaccine hesitancy. 
 
-<!-- <img src="images/random_intercept.png?raw=true"/> -->
+<!-- <img src="images/random_intercept.png?raw=true"/> 
 
 [![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
@@ -86,7 +86,7 @@ A selection of smaller projects demonstrating specific data science and ML skill
 - [Working in the cloud: Using data stored in AWS S3 buckets](#)
 - [Optimising code with multiprocessing](#)
 
-
+  uva uva-->
 
 
 
