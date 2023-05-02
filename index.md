@@ -15,7 +15,7 @@ A relationship was found between the presence of high levels of CO, NO2, PM2.5, 
 ---
 
 ###  Water and Waste Annual reports 
-Campuses in the institution are overloaded with daily operations. By consulting the logbooks of water sources and waste generated, I generated two dashboards, so they can visualize their consumption, take good practices from other campuses and make better decisions to get to their sustainable goals. 
+Campuses in the institution are overloaded with their daily operations. By consulting the logbooks of water sources and waste generated, I generated two dashboards, so they can visualize their consumption, take good practices from other campuses and make better decisions to get to their sustainable goals. 
 
 <img src="images/ITESM_Water.gif?raw=true" />
 
